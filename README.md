@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hello%20world!&fontColor=f0ffff &animation=fadeIn&fontSize=50&fontAlignY=30&desc=Welcome%20to%20my%20github%20profile&descAlignY=50&descAlign=75"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,7&height=150&section=header&text=Hello%20world!&fontColor=f0ffff &animation=fadeIn&fontSize=50&fontAlignY=30&desc=Welcome%20to%20my%20github%20profile&descAlignY=50&descAlign=75"/>
 
 **👋 Hi, I’m Kirill**
 
