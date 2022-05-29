@@ -2,10 +2,13 @@
 
 **👋 Hi, I’m Kirill**
 
-✨ I’m currently learning Python <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="20"/>
+✨ I'm interested in Web technologies, Python, Django, REST API
 
+✨ I’m currently studying backend-developer (Python) <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="20"/> on Ya.Practicum
 
-📫 How to reach me 👀
+I like learning new things and technologies.
+
+📫 You can reach me on Telegram https://t.me/Kirik_Bk
 
 <!---
 HelloAgni/HelloAgni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
