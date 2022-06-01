@@ -4,7 +4,7 @@
 
 ✨ I'm interested in Web technologies, Python, Django, REST API
 
-✨ I’m currently studying backend-developer (Python) <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="20"/> on Ya.Practicum
+✨ I’m currently studying Python developer <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="20"/> on Ya.Practicum
 
 I like learning new things and technologies.
 
