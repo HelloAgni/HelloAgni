@@ -8,7 +8,13 @@
 
 I like learning new things and technologies.
 
-📫 You can reach me on Telegram https://t.me/Kirik_Bk
+***Stack of technology:***
+
+Python, Django, Django REST Framework, SQL, PostgreSQL,
+
+Nginx, Gunicorn, Docker, Docker-compose, Linux, Git, Ya.Cloud
+
+You can reach me on Telegram <a href='https://t.me/Kirik_Bk'> 📫 </a>
 
 <!---
 HelloAgni/HelloAgni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
