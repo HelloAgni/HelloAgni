@@ -10,8 +10,7 @@ I like learning new things and technologies.
 
 ***Stack of technology:***
 
-Python, Django, Django REST Framework, SQL, PostgreSQL,
-
+Python, Django, Django REST Framework, SQL, PostgreSQL,  
 Nginx, Gunicorn, Docker, Docker-compose, Linux, Git, Ya.Cloud
 
 You can reach me on Telegram <a href='https://t.me/Kirik_Bk'> 📫 </a>
