@@ -10,7 +10,7 @@
 Python, Django, Django REST Framework, SQL, PostgreSQL,  
 Nginx, Gunicorn, Docker, Docker-compose, Linux, Git, Ya.Cloud
 
-***You can reach me on Telegram*** <a href='https://t.me/Kirik_Bk'> 📫 </a>
+***You can reach me on Telegram*** <a href='https://t.me/Kirik_Bk'><img src="https://img.icons8.com/color/48/undefined/telegram-app--v1.png" height="35" align="center"></a>
 
 [![codewars](https://www.codewars.com/users/HelloAgni/badges/small)](https://www.codewars.com/users/HelloAgni)
 
