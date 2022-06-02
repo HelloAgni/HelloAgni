@@ -6,14 +6,13 @@
 
 ✨ I’m currently studying Python developer <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="20"/> on Ya.Practicum
 
-I like learning new things and technologies.
-
-***Stack of technology:***
-
+***Stack of technology:***  
 Python, Django, Django REST Framework, SQL, PostgreSQL,  
 Nginx, Gunicorn, Docker, Docker-compose, Linux, Git, Ya.Cloud
 
-You can reach me on Telegram <a href='https://t.me/Kirik_Bk'> 📫 </a>
+***You can reach me on Telegram*** <a href='https://t.me/Kirik_Bk'> 📫 </a>
+
+[![codewars](https://www.codewars.com/users/HelloAgni/badges/small)](https://www.codewars.com/users/HelloAgni)
 
 <!---
 HelloAgni/HelloAgni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
