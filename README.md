@@ -12,6 +12,8 @@ Nginx, Gunicorn, Docker, Docker-compose, Linux, Git, Ya.Cloud
 
 ***You can reach me on Telegram*** <a href='https://t.me/Kirik_Bk'><img src="https://img.icons8.com/color/48/undefined/telegram-app--v1.png" height="35" align="center"></a>
 
+***You can reach me on email***  <a href='mailto:baibak.k.v@gmail.com'><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="35" align="center"></a>
+
 [![codewars](https://www.codewars.com/users/HelloAgni/badges/small)](https://www.codewars.com/users/HelloAgni)
 
 <!---
