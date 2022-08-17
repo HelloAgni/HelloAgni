@@ -2,11 +2,9 @@
 
 **👋 Hi, I’m Kirill**
 
-✨ I'm interested in Web technologies, Python, Django, REST API
+✨ I'm interested in Web technologies, Python <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="20"/>, Django, REST API
 
-✨ I’m currently studying Python developer <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="20"/> on Ya.Practicum
-
-***Stack of technology:***  
+✨***Stack of technology:***  
 Python, Django, Django REST Framework, SQL, PostgreSQL,  
 Nginx, Gunicorn, Docker, Docker-compose, Linux, Git, Ya.Cloud
 
