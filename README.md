@@ -14,6 +14,8 @@ Nginx, Gunicorn, Docker, Docker-compose, Linux, Git, Ya.Cloud
 
 [![codewars](https://www.codewars.com/users/HelloAgni/badges/small)](https://www.codewars.com/users/HelloAgni)
 
+![](https://komarev.com/ghpvc/?username=HelloAgni&style=plastic)
+
 <!---
 HelloAgni/HelloAgni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
