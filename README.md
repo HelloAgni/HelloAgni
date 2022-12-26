@@ -6,7 +6,8 @@
 
 ✨***Stack of technology:***  
 Python, Django, Django REST Framework, SQL, PostgreSQL,  
-Nginx, Gunicorn, Docker, Docker-compose, Linux, Git, Ya.Cloud
+nginx, gunicorn, docker, docker-compose, linux, git, Ya.Cloud,  
+bs4, pandas, selenium, poetry
 
 ***You can reach me on Telegram*** <a href='https://t.me/Kirik_Bk'><img src="https://img.icons8.com/color/48/undefined/telegram-app--v1.png" height="35" align="center"></a>
 
