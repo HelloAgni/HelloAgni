@@ -2,12 +2,12 @@
 
 **👋 Hi, I’m Kirill**
 
-✨ I'm interested in Web technologies, Python <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="20"/>, Django, REST API
+✨ I am interested in back-end development with Python <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="20"/>
 
 ✨***Stack of technology:***  
 Python, Django, Django REST Framework, SQL, PostgreSQL,  
-nginx, gunicorn, docker, docker-compose, linux, git, Ya.Cloud,  
-bs4, pandas, selenium, poetry
+nginx, gunicorn, docker, docker-compose, Linux, git, Ya.Cloud,  
+bs4, pandas, selenium, scrapy, poetry
 
 ***You can reach me on Telegram*** <a href='https://t.me/Kirik_Bk'><img src="https://img.icons8.com/color/48/undefined/telegram-app--v1.png" height="35" align="center"></a>
 
