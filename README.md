@@ -2,7 +2,7 @@
 
 **👋 Hi, I’m Kirill**
 
-✨ I am interested in back-end development with Python <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="20"/>
+✨ I am interesting in back-end development with Python <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="20"/>
 
 ✨***Stack of technology:***  
 Python, Django, Django REST Framework, SQL, PostgreSQL,  
